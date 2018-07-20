@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.tarena.fly.LoginDialog
+SplashScreen-Image: res/splash.jpg
+
